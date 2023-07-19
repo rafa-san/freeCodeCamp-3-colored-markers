@@ -1,6 +1,6 @@
-# freeCodeCamp - 3
+# freeCodeCamp - 03
 
-## Building a Set of Colored Markers
+## Colored Markers
 
 Terceiro curso da trilha **Responsive Web Design Certification**.
 
